@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-[alt text](https://i.ibb.co/nzZ8Bkf/image.png)
+![Wallpaper app screenshots](https://i.ibb.co/nzZ8Bkf/image.png) 
 
 ## Getting Started
 
